@@ -1,2 +1,0 @@
-# convivaassignmentAPI
-Created with CodeSandbox
